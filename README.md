@@ -80,7 +80,8 @@ Total Revenue
 Year-over-Year Growth (%)
 Rank of Each Listing by YoY Growth
 
-##Part 2 
+#Part 2 
+
 1: Property Diversity
 With a wide range of property types available, from apartments and villas to unique stays like treehouses and boats, the management team wants to evaluate whether they are meeting customer needs.
 Task:
