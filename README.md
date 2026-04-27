@@ -42,6 +42,7 @@ Listing ID
 Review Date
 Reviewer Name
 Rank of the Review by Date
+
 2. Identify Most Active Hosts
 The management team wants to identify the most active hosts based on the total number of reviews their listings have received. This analysis will help the team recognize high-performing hosts who maintain popular and engaging properties. The total number of reviews for each host is calculated by summing up the reviews of all their listings.
 
@@ -51,6 +52,7 @@ Host ID
 Host Name
 Total Number of Reviews (sum of reviews for all their listings)
 Rank of the Host by Reviews
+
 3. Analyze Revenue for Top Listings
 The finance team wants to identify the top revenue-generating listings. By analyzing the total revenue earned by each listing, the team can prioritize these listings for promotional strategies or investment. The revenue is calculated by summing up the price for all available days in the calendars table.
 
@@ -59,6 +61,7 @@ Display:
 Listing ID
 Total Revenue
 Rank of the Listing by Revenue
+
 4. Compare Property Type Performance in Summer
 The marketing team wants to identify how property types perform relative to each other during the summer months. By calculating percentile ranks for property types based on their total summer revenue, the team can classify property types into performance tiers, such as top-80 percentile performing property types.
 
@@ -66,6 +69,7 @@ Question: Calculate the total summer revenue (June, July, and August) for each p
 Property Type
 Total Summer Revenue
 Percentile Rank (based on summer revenue, between 0 and 1)
+
 5. Analyze Year-over-Year (YoY) Growth in Listing RevenueThe finance team wants to analyze how listing revenue changes over time by comparing year-over-year (YoY) growth. This information can help identify trends in revenue generation and highlight listings that are growing or declining in performance.
 
 Question: For each listing, calculate the total revenue per year and determine its YoY growth as a percentage. calculate the YoY growth. Finally, rank listings based on their YoY growth percentage to identify top-performing listings. 
