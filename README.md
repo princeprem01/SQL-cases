@@ -79,3 +79,49 @@ Year
 Total Revenue
 Year-over-Year Growth (%)
 Rank of Each Listing by YoY Growth
+
+##Part 2 
+1: Property Diversity
+With a wide range of property types available, from apartments and villas to unique stays like treehouses and boats, the management team wants to evaluate whether they are meeting customer needs.
+Task:
+Calculate the total number of listings and unique property types.
+Identify the top 5 most common property types and their respective counts.
+
+2: Guest Ratings
+Guest satisfaction is critical to Airbnb’s success, as high ratings lead to repeat bookings and positive word-of-mouth. Identifying top-rated listings can help Airbnb feature these properties in promotional campaigns and inspire other hosts to improve their offerings.
+Conversely, understanding listings with poor ratings will allow Airbnb to address guest concerns through targeted interventions, such as host training or quality assurance checks.
+Task:
+Calculate the average review score across all listings.
+List the top 10 listings with the highest review scores.
+Count the number of listings with an average review score below 4.0.
+
+3: Host Engagement
+Hosts are the backbone of Airbnb’s platform, and their success directly impacts the company’s growth. Hosts managing multiple listings contribute significantly to the platform’s inventory and revenue. Airbnb wants to identify its most engaged hosts and understand their performance.
+Task:
+Identify hosts managing more than 3 listings.
+Calculate the average review score for each host across their listings.
+List hosts with at least 2 listings and an average review score below 4.0.
+
+4: Booking Trends
+Occupancy rates are one of the most critical indicators of a listing’s success. Listings with high occupancy rates indicate strong demand, while low-occupancy listings may signal pricing issues or uncompetitive offerings.
+Airbnb’s sales team is keen to understand which listings perform well and which are underutilised during specific periods, such as January 2024. This insight will help them optimise marketing strategies and identify patterns in guest booking behaviour.
+Task:
+Calculate the occupancy rate for each listing for January 2024.
+Identify the top 5 listings with the highest occupancy rates in January 2024.
+List all listings that were not booked at all in January 2024.
+
+5: Pricing Patterns Across Property Types
+Airbnb’s pricing strategy team wants to understand how property type influences nightly rates. Identifying undervalued property types can guide pricing adjustments, while understanding high-value categories can inform marketing priorities.
+Analysing pricing patterns will also help identify trends in demand and inform strategic decisions about property offerings.
+Task:
+Calculate the average price per night for each property type.
+Identify the top 5 listings with the highest average price per night and their property type.
+Find property types with an average price below $150 per night.
+
+6: Guest Review Insights
+Guest reviews offer invaluable insights into the strengths and weaknesses of Airbnb’s platform. Identifying frequent reviewers can help the company understand customer behaviour, while analysing listings with no reviews reveals areas of potential improvement in guest engagement.
+Task:
+Identify the top 10 reviewers by the total number of reviews submitted.
+Calculate the average number of reviews per listing.
+Identify all listings with no reviews in 2023.
+
